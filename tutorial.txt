@@ -1,0 +1,6 @@
+1. ekstrak file dengan winrar/zip 
+2. copy paste ke xampp/htdocs
+3. import database dengan nama dens
+4. buka localhost/densshop untuk melihat tampilan depan web
+5. buka localhost/densshop/dens_login untuk masuk ke halaman admin
+6 . username : admin , password : 123123 
